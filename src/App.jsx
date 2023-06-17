@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>React + Sass</h1>
+      <h1>Form React Sass</h1>
     </>
   )
 }
